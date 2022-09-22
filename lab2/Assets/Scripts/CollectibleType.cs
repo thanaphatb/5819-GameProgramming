@@ -4,17 +4,3 @@ public enum CollectibleType
     Green,
     Blue,
 }
-
-public enum Action
-{
-    Idle,
-    Run,
-    Walk,
-}
-
-public enum ItemColor
-{
-    Red,
-    Green,
-    Blue,
-}
